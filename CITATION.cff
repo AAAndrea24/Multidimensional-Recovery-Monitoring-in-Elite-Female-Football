@@ -3,10 +3,10 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "Sleep, Actigraphy and Recovery in Elite Female Football Players: Analysis Code"
 authors:
-    family-names:
-    given-names:
-    affiliation:
-    orcid:
+  - family-names: "Colombo"
+    given-names: "Andrea"
+    affiliation: "University Niccolò Cusano"
+    orcid: "https://orcid.org/0009-0005-3740-5612" 
 repository-code: "https://github.com/AAAndrea24/Multidimensional-Recovery-Monitoring-in-Elite-Female-Football.git"
 license: MIT
 version: "1.0.0"
