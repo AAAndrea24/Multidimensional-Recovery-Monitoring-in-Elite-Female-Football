@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.Rproj.user/
+*.Rproj
+
+# renv (if used)
+renv/library/
+renv/staging/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Raw/sensitive data - never commit real participant data
+data/*.xlsx
+data/*.csv
+!data/README.md
